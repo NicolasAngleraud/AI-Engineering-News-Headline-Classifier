@@ -2,7 +2,7 @@
 
 AI Engineering project that builds, trains and deploys as REST API endpoint a multiclass text classifier for news headlines using PyTorch.
 
-Th project was built using AWS SageMaker, AWS S3, AWS Lambda, AWS API Gateway and Postman.
+The project was built using AWS SageMaker, AWS S3, AWS Lambda, AWS API Gateway and Postman.
 
 (The endpoint has been deactivated and images of api tests with Postman can be found in the api tests folder)
 
